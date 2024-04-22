@@ -10,7 +10,7 @@
   Wir entwickeln <strong>Momentum</strong>, eine neuartige Blockchainlösung für dezentrale Anwendungen.
 </p>
 <p>
-  Möchten Sie mehr erfahren? Newsletteranmeldung bald hier.
+  Möchten Sie mehr erfahren? Whitepaper und Newsletteranmeldung bald hier.
 </p>
 </div>
 
