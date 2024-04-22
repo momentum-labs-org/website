@@ -4,13 +4,13 @@
 </script>
 
 <div class="container mx-auto">
-<h1>Welcome to Momentum Labs</h1>
+<h1>Herzlich Willkommen bei Stiftung Momentum</h1>
 
 <p>
-  We create <strong>Momentum</strong>, the definite blockchain platform for decentralized apps and games.
+  Wir entwickeln <strong>Momentum</strong>, eine neuartige Blockchainlösung für dezentrale Anwendungen.
 </p>
 <p>
-  Stay tuned for more information.
+  Möchten Sie mehr erfahren? Newsletteranmeldung bald hier.
 </p>
 </div>
 
